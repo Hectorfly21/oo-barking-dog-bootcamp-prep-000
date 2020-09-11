@@ -9,5 +9,9 @@ class Dog# Your code goes here!
    puts "woof"
   end
 end
+fido = Dog.new
+fido.name = "Lassie"
 
-Dog.bark
+puts fido.name
+puts fido.bark
+
