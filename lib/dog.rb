@@ -14,4 +14,3 @@ fido.name = "Lassie"
 
 puts fido.name
 puts fido.bark
-
