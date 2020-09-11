@@ -9,6 +9,3 @@ class Dog# Your code goes here!
    puts "woof"
   end
 end
-
-lassie.name
-lassie.bark
