@@ -6,7 +6,7 @@ class Dog# Your code goes here!
     @name
   end
   def bark
-   puts "woof"
+   puts "woof!"
   end
 end
 fido = Dog.new
